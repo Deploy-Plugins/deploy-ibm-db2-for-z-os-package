@@ -1,0 +1,56 @@
+[
+    {
+        "version": "1",
+        "semver": "1.0",
+        "date": "2014.12.18 09:13",
+        "file": "DB2forzOS1.0.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": "0000000100000000"
+    },
+    {
+        "version": "0",
+        "semver": "0.0",
+        "date": "",
+        "file": "Db2-application-deployment-template-package-v4.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": ""
+    },
+    {
+        "version": "0",
+        "semver": "0.0",
+        "date": "",
+        "file": "db2-application-deployment-template-package-v5.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": ""
+    },
+    {
+        "version": "0",
+        "semver": "0.0",
+        "date": "",
+        "file": "DB2-application-deployment-template-package-v3.0.1.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": ""
+    },
+    {
+        "version": "0",
+        "semver": "0.0",
+        "date": "",
+        "file": "db2-application-deployment-template-package-v2.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": ""
+    },
+    {
+        "version": "0",
+        "semver": "0.0",
+        "date": "",
+        "file": "DB2-application-deployment-template-package-v3.zip",
+        "notes": [],
+        "supports": "",
+        "SORT_VERSION": ""
+    }
+]
